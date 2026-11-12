@@ -18,3 +18,5 @@ Iffat Mostafiz
 4. **Project Report**: Detailed documentation of the project.
 5. **Project Presentation Slide**
 6. **Studytime (The Actual Project)**: Source code and implementation of the actual project.
+
+# How to run the webapp for the first time
